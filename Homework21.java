@@ -12,7 +12,7 @@ public class Homework21{
     public static int[] randomArr() {
         Random rand = new Random();
         int array[] = new int[10];
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 0; i < array.length; i++) {
             array[i] = rand.nextInt(100);
             System.out.print(array[i] + " ");
         }
@@ -39,7 +39,6 @@ public class Homework21{
             loger.info(Arrays.toString(arr));
         }
         return arr;
-
     }
 
     public static void print(int[] arr) {
