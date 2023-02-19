@@ -20,11 +20,6 @@ public class Homework21{
         return array;
     }
 
-    /**
-     * @param arr
-     * @return
-     * @throws IOException
-     */
     public static int[] babbleSort(int arr[]) throws IOException {
         Logger loger = Logger.getLogger(Homework21.class.getName());
         FileHandler fHandler = new FileHandler("Homework21.txt");
