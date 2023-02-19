@@ -1,0 +1,40 @@
+февр. 19, 2023 11:28:23 PM Homework21 bubblesSort
+INFO: [91, 92, 85, 25, 23, 48, 44, 57, 17, 9]
+февр. 19, 2023 11:28:23 PM Homework21 bubblesSort
+INFO: [92, 91, 85, 25, 48, 44, 57, 23, 17, 9]
+февр. 19, 2023 11:28:23 PM Homework21 bubblesSort
+INFO: [92, 91, 85, 48, 44, 57, 25, 23, 17, 9]
+февр. 19, 2023 11:28:23 PM Homework21 bubblesSort
+INFO: [92, 91, 85, 48, 57, 44, 25, 23, 17, 9]
+февр. 19, 2023 11:28:23 PM Homework21 bubblesSort
+INFO: [92, 91, 85, 57, 48, 44, 25, 23, 17, 9]
+февр. 19, 2023 11:28:23 PM Homework21 bubblesSort
+INFO: [92, 91, 85, 57, 48, 44, 25, 23, 17, 9]
+февр. 19, 2023 11:28:23 PM Homework21 bubblesSort
+INFO: [92, 91, 85, 57, 48, 44, 25, 23, 17, 9]
+февр. 19, 2023 11:28:23 PM Homework21 bubblesSort
+INFO: [92, 91, 85, 57, 48, 44, 25, 23, 17, 9]
+февр. 19, 2023 11:28:23 PM Homework21 bubblesSort
+INFO: [92, 91, 85, 57, 48, 44, 25, 23, 17, 9]
+февр. 19, 2023 11:28:23 PM Homework21 bubblesSort
+INFO: [92, 91, 85, 57, 48, 44, 25, 23, 17, 9]
+февр. 19, 2023 11:28:40 PM Homework21 bubblesSort
+INFO: [99, 89, 47, 62, 83, 68, 46, 52, 40, 32]
+февр. 19, 2023 11:28:41 PM Homework21 bubblesSort
+INFO: [99, 89, 62, 83, 68, 47, 52, 46, 40, 32]
+февр. 19, 2023 11:28:41 PM Homework21 bubblesSort
+INFO: [99, 89, 83, 68, 62, 52, 47, 46, 40, 32]
+февр. 19, 2023 11:28:41 PM Homework21 bubblesSort
+INFO: [99, 89, 83, 68, 62, 52, 47, 46, 40, 32]
+февр. 19, 2023 11:28:41 PM Homework21 bubblesSort
+INFO: [99, 89, 83, 68, 62, 52, 47, 46, 40, 32]
+февр. 19, 2023 11:28:41 PM Homework21 bubblesSort
+INFO: [99, 89, 83, 68, 62, 52, 47, 46, 40, 32]
+февр. 19, 2023 11:28:41 PM Homework21 bubblesSort
+INFO: [99, 89, 83, 68, 62, 52, 47, 46, 40, 32]
+февр. 19, 2023 11:28:41 PM Homework21 bubblesSort
+INFO: [99, 89, 83, 68, 62, 52, 47, 46, 40, 32]
+февр. 19, 2023 11:28:41 PM Homework21 bubblesSort
+INFO: [99, 89, 83, 68, 62, 52, 47, 46, 40, 32]
+февр. 19, 2023 11:28:41 PM Homework21 bubblesSort
+INFO: [99, 89, 83, 68, 62, 52, 47, 46, 40, 32]
