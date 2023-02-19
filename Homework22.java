@@ -3,7 +3,7 @@
 import java.util.Scanner;
 import java.io.IOException;
 import java.util.logging.*;
-import java.util.logging.Logger;
+
 
 public class Homework22 {
 
@@ -47,7 +47,7 @@ public class Homework22 {
     public static void main(String[] args) throws IOException {
 
         Logger logger = Logger.getLogger(Homework22.class.getName());
-        FileHandler fHandler = new FileHandler("logHM22.txt", true);
+        FileHandler fHandler = new FileHandler("logHW22.txt", true);
         logger.addHandler(fHandler);
         SimpleFormatter sFormat = new SimpleFormatter();
         fHandler.setFormatter(sFormat);
