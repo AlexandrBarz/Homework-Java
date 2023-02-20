@@ -1,6 +1,6 @@
-import java.util.Random;
-
 // Реализовать алгоритм сортировки слиянием
+
+import java.util.Random;
 
 public class homework31 {
     public static void main(String[] args) {
