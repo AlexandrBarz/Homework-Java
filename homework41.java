@@ -13,10 +13,8 @@ public class homework41 {
     }
     public static void main(String[] args) {
         List<Integer> list = Arrays.asList(2, 5, 6, 9, 7, 54, 12);
-        System.out.println("Исходный список:");
-        System.out.println(list);
+        System.out.println("Исходный список: " + list);
         List<Integer> reverse = reverseList(list);
-        System.out.println("Перевернутый список:");
-        System.out.println(reverse);
+        System.out.println("Перевернутый список: " + reverse);
     }
 }
